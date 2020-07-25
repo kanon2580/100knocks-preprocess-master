@@ -1,5 +1,5 @@
-# pythin触ったことないくせに急に100本ノックやる。
-- 使用言語：Python
+# SQL触ったことないくせに急に100本ノックやる。
+- DB：PostgreSQL12
 - 環境：Docker toolbox(win10 home 64bit)
 
 > **参照**
